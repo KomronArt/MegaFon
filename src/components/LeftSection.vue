@@ -13,7 +13,6 @@
         props:{
             LeftItem:{
                 type: Object,
-                required: true,
             }
         }
     }

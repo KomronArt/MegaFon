@@ -11,7 +11,6 @@
         props:{
             RightItem:{
                 type: Object,
-                required: true,
             }
         }
     }
